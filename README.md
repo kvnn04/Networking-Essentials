@@ -14,12 +14,16 @@ He consolidado mi aprendizaje en guías detalladas con diagramas y casos de uso 
 
 ## 🚀 Conceptos Dominados
 
-### 1. El Modelo OSI (Teórico)
-Análisis de las 7 capas para entender la interoperabilidad de sistemas:
-- **Capa 7 (Aplicación):** Protocolos HTTP, DNS, FTP.
-- **Capa 4 (Transporte):** Fiabilidad y control de flujo.
-- **Capa 3 (Red):** Direccionamiento lógico (IP) y Routing.
+### 1. El Modelo OSI (Referencia de 7 Capas)
+Análisis de la pila teórica para entender el flujo de datos desde el hardware hasta el usuario final:
 
+* **Capa 7 - Aplicación:** Interfaz de servicios de red para el usuario final. (Protocolos: **HTTP, DNS, FTP, SSH, SMTP**).
+* **Capa 6 - Presentación:** Formateo, cifrado y compresión de datos. Asegura que la información sea legible. (**SSL/TLS, JSON, JPEG**).
+* **Capa 5 - Sesión:** Establecimiento, gestión y finalización de sesiones entre aplicaciones.
+* **Capa 4 - Transporte:** Segmentación, control de flujo y entrega confiable de datos punto a punto. (**TCP, UDP**).
+* **Capa 3 - Red:** Determinación de rutas (Enrutamiento) y direccionamiento lógico. (**IPv4/IPv6, ICMP, Routers**).
+* **Capa 2 - Enlace de Datos:** Transferencia de datos nodo a nodo y direccionamiento físico. (**MAC, Switches, Ethernet, ARP**).
+* **Capa 1 - Física:** Transmisión binaria y especificaciones eléctricas/mecánicas del medio. (Cables, Fibra, Señal de Radio).
 
 
 ### 2. El Modelo TCP/IP (Práctico)
