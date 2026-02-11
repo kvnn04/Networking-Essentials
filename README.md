@@ -5,7 +5,7 @@ Bienvenido a mi repositorio de documentación técnica sobre infraestructura y r
 ---
 
 ## 📖 Documentación Principal
-He consolidado mi aprendizaje en guías detalladas con diagramas y casos de uso prácticos:
+He consolidado mi aprendizaje en guías detalladas y usos prácticos:
 
 * 📘 **[Modelo OSI: Guía de Referencia Teórica](https://docs.google.com/document/d/1mdpatcrNHZTnOpC1pIucI_53_1fOd2rn0WHk5S9eU64/edit?usp=sharing)**
 * 📗 **[Modelo TCP/IP: La Arquitectura de Internet](https://docs.google.com/document/d/1Czebr4TyMqVkIZMpNTHY27LP6xFV5pqm_hTRb1_j2WQ/edit?usp=sharing)**
